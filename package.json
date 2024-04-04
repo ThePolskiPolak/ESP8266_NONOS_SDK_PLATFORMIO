@@ -1,0 +1,16 @@
+{
+  "name": "framework-esp8266-nonos-sdk-platformio",
+  "version": "3.0.5",
+  "description": "Espressif ESP8266 Non-OS SDK",
+  "keywords": [
+    "framework",
+    "sdk",
+    "esp8266",
+    "espressif"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThePolskiPolak/ESP8266_NONOS_SDK_PLATFORMIO"
+  }
+}
